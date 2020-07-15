@@ -1,16 +1,18 @@
 ### Hi there 👋
-#### I am Shubham Kamble 
-<!--
-**shubhamkamble24109135/shubhamkamble24109135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Shubham Kamble 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning graph ql
+- 💬 You can  Ask me for help 24/7 feel free
+- 📫 How to reach me: [Twitter](https://mobile.twitter.com/explore "") &  [LinkedIn](https://www.linkedin.com/in/shubham-kamble-48a312156 "")
+
+
+
+
+
+
+
+
+
+
+
